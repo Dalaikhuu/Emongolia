@@ -207,7 +207,7 @@ function App() {
             onClick={handleModal}
             className="bg-black opacity-50 absolute top-0 left-0 w-full h-full"
           ></div>
-          <div className="bg-white z-50 p-5 rounded-md w-[96%] h-[70%]">
+          <div className="bg-white z-50 p-5 rounded-md w-[96%] h-[85%]">
             <div className="text-[20px] font-bold text-slate-700">
               Иргэний үнэмлэх
             </div>
